@@ -18,7 +18,7 @@ To get started with our platform, follow these simple steps:
 ### Frontend Setup
 ##### 1. Navigate to the `Question-and-Answer-Platform-Frontend` repo and clone it.
 ##### 2. Install dependencies using `npm install`
-##### 3. Run the development server using 'npm run dev`.
+##### 3. Run the development server using `npm run dev`.
 
 ### Backtend Setup
 ##### 1. Navigate to the `Question-and-Answer-Platform-Backend` repo and clone it
